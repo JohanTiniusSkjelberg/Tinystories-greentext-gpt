@@ -8,6 +8,7 @@ I used Tinystories dataset with 2.1 million stories to train the network. I then
 - Greentext model: step 4000, validation loss 2.79 on greentext.
 
 # Sample output
+```
 >be me, sitting on the bench, reading the same page
 >the sun is still up, the same as always
 >the sun comes up, the sun is hot
@@ -17,8 +18,9 @@ I used Tinystories dataset with 2.1 million stories to train the network. I then
 >mom says "it's the best one"
 >walk home at 9, the sun is up
 >my phone is still on the counter, still in the drawer
+```
 
-----------------------------------------
+```
 >be me, 14 years old, 9 years old, still at home
 >think about how many years are left in a life
 >mom makes soup and says it's fine
@@ -27,10 +29,13 @@ I used Tinystories dataset with 2.1 million stories to train the network. I then
 >we eat the soup together, it's good
 >mom says "good, anon"
 >eat the soup and feel the soup taste good
-----------------------------------------
+```
+
+```
 >be me, 17, the moon is named Greg
 >walk past the stars, the moon is still there
 >the moon is the only one who listens
 >a man ahead is at the back of the road
 >he says "you are a good boy" and sits down
 >the stars are about a moon, the moon is not
+```
